@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>sagging_roof_0043.jpg</filename>
+	<path>C:\Users\00ant\Desktop\images\all\sagging_roof_0043.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3872</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sagging_roof</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1103</xmin>
+			<ymin>840</ymin>
+			<xmax>2481</xmax>
+			<ymax>1668</ymax>
+		</bndbox>
+	</object>
+</annotation>

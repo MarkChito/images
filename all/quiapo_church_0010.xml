@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>quiapo_church_0010.jpg</filename>
+	<path>C:\Users\00ant\Desktop\images\all\quiapo_church_0010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3867</width>
+		<height>2578</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quiapo_church_quiapo_manila</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>604</xmin>
+			<ymin>119</ymin>
+			<xmax>3140</xmax>
+			<ymax>2267</ymax>
+		</bndbox>
+	</object>
+</annotation>

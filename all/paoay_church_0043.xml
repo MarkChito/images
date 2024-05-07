@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>paoay_church_0043.jpg</filename>
+	<path>C:\Users\00ant\Desktop\images\all\paoay_church_0043.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>956</width>
+		<height>717</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paoay_church_paoay_ilocos_norte</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>98</ymin>
+			<xmax>940</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>daraga_church_0038.jpg</filename>
+	<path>C:\Users\00ant\Desktop\images\all\daraga_church_0038.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4939</width>
+		<height>2964</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>daraga_church_daraga_albay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>213</ymin>
+			<xmax>2399</xmax>
+			<ymax>2228</ymax>
+		</bndbox>
+	</object>
+</annotation>

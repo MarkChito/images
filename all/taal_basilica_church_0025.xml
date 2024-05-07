@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>taal_basilica_church_0025.jpg</filename>
+	<path>C:\Users\00ant\Desktop\images\all\taal_basilica_church_0025.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3143</width>
+		<height>2626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taal_basilica_church_taal_batangas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>450</ymin>
+			<xmax>2870</xmax>
+			<ymax>2028</ymax>
+		</bndbox>
+	</object>
+</annotation>

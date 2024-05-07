@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>san_agustin_church_0042.jpg</filename>
+	<path>C:\Users\00ant\Desktop\images\all\san_agustin_church_0042.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>373</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>san_agustin_church_intramuros_manila</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>2</ymin>
+			<xmax>500</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

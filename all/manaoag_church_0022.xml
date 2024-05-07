@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>manaoag_church_0022.jpg</filename>
+	<path>C:\Users\00ant\Desktop\images\all\manaoag_church_0022.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>735</width>
+		<height>736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>manaoag_church_manaoag_pangasinan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>135</ymin>
+			<xmax>578</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>manila_cathedral_0036.jpg</filename>
+	<path>C:\Users\00ant\Desktop\images\all\manila_cathedral_0036.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>manila_cathedral_church_intramuros_manila</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>2</ymin>
+			<xmax>4000</xmax>
+			<ymax>2667</ymax>
+		</bndbox>
+	</object>
+</annotation>

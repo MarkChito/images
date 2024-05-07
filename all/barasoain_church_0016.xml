@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>barasoain_church_0016.jpg</filename>
+	<path>C:\Users\00ant\Desktop\images\all\barasoain_church_0016.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>993</width>
+		<height>755</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>barasoain_church_malolos_bulacan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>25</ymin>
+			<xmax>686</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>
